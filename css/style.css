@@ -1,8 +1,8 @@
 .background{
-    margin:5em;
+    /* margin:5em; */
 }
 .foreground{
-    margin:10em;
+    margin:10%;
     /* background-color: blanchedalmond; */
     border-bottom-right-radius: 2em;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -14,20 +14,22 @@
 }
 
 #home_p{
-    width: 35%;
-    position: absolute;
+    /* width: 35%; */
+    /* position: absolute; */
     padding:2em;
 }
 
 .main_img_div{
  margin-right: 0px;
- margin-left: 50%;   
+ /* display: block; */
+ /* margin-left: 50%;    */
 }
 .main_img{
-    display: block;
+    /* display: block; */
     /* margin-right: 5px; */
     /* margin-left: auto; */
     width: 100%;
     border-bottom-right-radius: 2em;
 }
+
 
