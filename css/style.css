@@ -28,6 +28,7 @@
 
 .main_img_div{
  margin-right: 0px;
+ align-content: flex-end;
 }
 .main_img{
     width: 100%;
