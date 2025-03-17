@@ -9,27 +9,29 @@
 }
 
 .heading{
-    margin-left: 40%;
-    /* padding-right: 50%; */
+    text-align: center;
+}
+
+.notes_heading{
+    text-align: start;
+    padding-left: 2rem;
+}
+
+.paragraph_style{
+    padding-left: 2rem;
+    
 }
 
 #home_p{
-    /* width: 35%; */
-    /* position: absolute; */
-    padding:2em;
+    padding:2rem;
 }
 
 .main_img_div{
  margin-right: 0px;
- /* display: block; */
- /* margin-left: 50%;    */
 }
 .main_img{
-    /* display: block; */
-    /* margin-right: 5px; */
-    /* margin-left: auto; */
     width: 100%;
-    border-bottom-right-radius: 2em;
+    border-bottom-right-radius: 2rem;
 }
 
 
